@@ -1,0 +1,54 @@
+h1{
+   color:pink;
+   font-size:60px;
+  }
+
+body{
+     background-color: purple;
+    }
+
+ h2{
+ color: red;
+ }
+
+ h5{
+ font-size:20px;
+ }
+
+#para9{
+	color:pink;
+}
+
+p{
+	font-size:20px
+}
+
+body{
+	width:960px;
+     margin-left:auto;
+     margin-right:auto;
+     border-width:1px;
+     border-style:solid;
+     border-color:pink;
+     border-radius:5px;
+     padding-left:20px;
+     padding_right:20px;
+}
+
+ div{
+ border-width:1px;
+ border-style:solid;
+ border-color:pink;
+ border-radius:5px;
+ margin:5px;
+ }
+
+ div{
+ background:url(bg_jjmtu/背景.jpg)
+ -moz-background-size:63px 100px;
+ background-size：63px 100px;
+ background-size：100% 100%;
+ background-repeat:no-repeat;
+ background-origin:content-box;
+
+ }
