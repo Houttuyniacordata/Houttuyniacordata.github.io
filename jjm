@@ -43,12 +43,4 @@ body{
  margin:5px;
  }
 
- div{
- background:url(bg_jjmtu/背景.jpg)
- -moz-background-size:63px 100px;
- background-size：63px 100px;
- background-size：100% 100%;
- background-repeat:no-repeat;
- background-origin:content-box;
-
- }
+ 
